@@ -192,4 +192,7 @@ header {
         grid-template-columns: 1fr;
         grid-auto-rows: 50vh;
     }
+    .burger-menu a {
+        font-size: 2em;
+    }
 }
