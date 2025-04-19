@@ -185,6 +185,13 @@ header {
 }
 
 @media (max-width: 1023px) {
+    header {
+        height: 60px;
+        padding: 0 10px;
+    }
+    .logo-link img {
+        height: 32px;
+    }
     .section img.desktop {
         display: none;
     }
